@@ -1,7 +1,6 @@
 # 🍅 Pomodoro Pet
 
-A single-screen Pomodoro timer featuring a living, expressive SVG pet companion that reacts to your focus sessions in real time. Built as a frontend technical assessment.
-
+A single-screen Pomodoro timer featuring a living, expressive SVG pet companion that reacts to your focus sessions in real time.
 
 ---
 
